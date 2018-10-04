@@ -4,4 +4,7 @@ caranya :
 1. copy file logoff.bat ke C:\Windows\system32\
 2. Tambahkan scheduler task yang berjalan setiap hari setiap jam 11 atau 12 malam
 3. set username dan password yang masuk ke dalam group administrator
-4. save
+4. save    
+
+untuk script logofftanpafile.bat cara pemakaiannya sama saja hanya berbeda    
+dari file yang di hasilkan script yang pertama menghasilkan file session.txt
