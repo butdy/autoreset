@@ -1,4 +1,4 @@
-author : febry bos ane
+author : febry bos ane    
 Simple Script untuk auto reset saat sudah tidak di pakai user (tengah malam)
 caranya :
 1. copy file logoff.bat ke C:\Windows\system32\
